@@ -12,6 +12,7 @@
 		{
             "name": "stream",
             "types": ["tv"],
+			"url": "https://iptv-org.github.io/iptv/languages/dan.m3u",
             "idPrefixes": ["stremio_iptv_id:"]
         }, 
 		{
